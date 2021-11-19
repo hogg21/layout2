@@ -1,5 +1,6 @@
 # layout-project 2
 
+# site link (https://hogg21.github.io/layout2/)
 styles/
 |-- index.scss
 index.html
