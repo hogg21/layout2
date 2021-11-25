@@ -1,19 +1,14 @@
 # layout-project 2
 
-# site link (https://hogg21.github.io/layout2/)
-styles/
-|-- index.scss
-index.html
-style.css
-style.css.map
+# [site link](https://hogg21.github.io/layout2/)
+Layout supports desktop (up-to-1400) version
 
-# the tech uses in this project
-HTML5[https://ru.wikipedia.org/wiki/HTML5]
-SASS[https://sass-scss.ru/]
-CSS[https://ru.wikipedia.org/wiki/CSS]
-BEM[https://ru.bem.info/methodology/]
-Flexbox[http://css.yoksel.ru/flexbox/]
+# The tech stack is:
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [Flexbox](https://en.wikipedia.org/wiki/CSS_Flexible_Box_Layout)
+- [Sass (Scss)](https://sass-lang.com/)
+- [BEM methodology](https://en.bem.info/methodology/)
 
 # Author
-
-Denys Balan
+- Denys Balan
