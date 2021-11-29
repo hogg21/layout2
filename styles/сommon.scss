@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 43px;
+  }
+  .price-card__options__item {
+    padding: 16px 21px;
+  }
+  .price-card__options__item:nth-child(2n-1) {
+    background-color: #2a3438;
+  }
+  .price-card__options__item > img {
+    margin-right: 22px;
+  }
+  .button__wraper {
+    display: flex;
+    justify-content: center;
+  }
